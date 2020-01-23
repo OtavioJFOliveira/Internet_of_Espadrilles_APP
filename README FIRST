@@ -1,5 +1,16 @@
 # Internet_of_Espadrilles_APP
 
 This application was developed using the thunkable platform.
-
 To proceed with changes it is necessary to download the file and then upload it to the thunkable platform.
+
+This version of application is a developed on the Thunkacle Classic version, so if you want to modify the project you need to use the Classic.
+version of thunkable.
+This project has 3 screens but only 2 are used, the 3rd screen is not used in this version project.
+
+The first screen has a animation effect to show the project´s logo.
+
+The second screen has all the important functions andinformation, for the correct use and possibility of alteration, you must install the extensions:
+ScrollControl: https://drive.google.com/open?id=1a4QKfD-uIYTJl8b12g0YpxDbMeiD0hBY
+MQTT: https://drive.google.com/open?id=1zkjSsihctB-GogBKE_NL17XqjTEe6o03
+
+If you use the different extensios you must make modifications to the application and share the new tools used.
